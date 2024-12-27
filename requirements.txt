@@ -3,7 +3,7 @@ streamlit-folium
 streamlit-extras
 folium
 geopy
-json
+# json
 requests
 python-dotenv
 streamlit-option-menu
