@@ -6,3 +6,4 @@ geopy
 json
 requests
 python-dotenv
+streamlit-option-menu
