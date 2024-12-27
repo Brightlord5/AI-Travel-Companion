@@ -7,3 +7,4 @@ geopy
 requests
 python-dotenv
 streamlit-option-menu
+openai
